@@ -51,7 +51,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
  <br />
  <br />
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sonugupta1234&theme=radical" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit9675&theme=radical" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonugupta1234&theme=radical" alt="summarycard"/> </p>
 <br>
 <br>
 <br>
