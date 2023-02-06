@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! <span color="blue">I'm Sonu Gupta</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
- <p align="center" ><img  style="width: 200px;" src="https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif"/></p>
+ <p align="center" ><img  style="width: 200px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/></p>
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
