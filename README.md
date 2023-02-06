@@ -67,13 +67,3 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </a>
 </div>
-(150 kB)
-https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
-
-(363 kB)
-https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif
-
-(333 kB)
-https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif
-
-(55 kB)
