@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <span color="blue">I'm Sonu Gupta</span> <img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="25px"> </h1>
+<h1 align="center">Hi there! <span color="blue">I'm Sonu Gupta</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
  <p align="center" ><img  style="width: 200px;" src="https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif"/></p>
 <!-- <div align="center">
