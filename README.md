@@ -2,7 +2,7 @@
  <br>
  <p align="center" ><img  style="width: 200px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/></p>
 <!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="400"/>
 </div> -->
 ### :man_technologist: About Me :
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
