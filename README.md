@@ -7,7 +7,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m studying Full stack web devlopment at Masai School and contributing to frontend and backend for building web applications.
-- :telescope: <a href="#portfolio" target="_blank">Portfolio</a>
+- :telescope: <a href="sonugupta1234.github.io" target="_blank">Portfolio</a>
 - :zap: In my free time, I solve problems on various coding platforms and read tech articles.
 - :mailbox::How to reach me: <a href="https://www.linkedin.com/in/sonu-gupta-677a1b252/" target="_blank">LinkedIn
   </a>
